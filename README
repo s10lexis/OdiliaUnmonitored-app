@@ -3,7 +3,7 @@
 
 # Odilia Voting App – Full Docker Deployment (EC2 Edition)
 
-This project contains the complete setup to deploy the Odilia Voting App using Docker Compose on AWS EC2, including monitoring with Grafana and Prometheus.
+This project contains the complete setup to deploy the Odilia Voting App using Docker Compose on AWS EC2.
 
 ## 🔧 Services Included
 
